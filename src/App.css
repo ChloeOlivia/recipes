@@ -1,0 +1,20 @@
+.App html {
+  text-align: center;
+  height:105%;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(245, 234, 255);
+}
+
+.cover-wrapper {
+  background-image: url("https://th.bing.com/th/id/R.af6e56b031d0cfe7bb2134eff95e7096?rik=7lyi6IbYhYmXTw&pid=ImgRaw&r=0");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.cover {
+  padding: 75px;
+  margin: 0px;
+}

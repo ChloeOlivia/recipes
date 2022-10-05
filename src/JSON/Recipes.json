@@ -1,0 +1,14 @@
+{
+    "Recipes" : [
+        {
+            "name" : "Cinnamon Milk",
+            "ingredients" : ["Milk", "sweetner", "1/2 tsp vanila", "Cinnamon"],
+            "description" : "- Pour the milk into a cup. And then put the stevia and vanilla, stir well. After stirring, put the cinnamon on top. You can also warm it up for hot cinnamon milk. But remember to enjoy it"
+        },
+        {
+            "name" : "Limeade",
+            "ingredients" : ["1 lime or lime juice", "sweetner", "water", "Ice cube (optinal)"],
+            "description" : "- Pour water into cup cut a lime into half slices. Put one lime slice in the cup and one on the side, put the sweetener in and stir well and of course enjoy it!"
+        }
+    ]
+}
